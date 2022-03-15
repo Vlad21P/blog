@@ -1,0 +1,12 @@
+.card {
+    width: 32%;
+    margin-left: 1%;
+}
+.card-body img {
+    width: 250px; 
+    height: 250px;
+}
+form {
+    width: 500px;
+}
+
